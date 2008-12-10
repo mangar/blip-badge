@@ -37,10 +37,10 @@ The others parameter you can change to make the badge more sexy
 - **BLIP\_DEBUG** :: You can take a look on the real response header of the Blip.fm API (default = false)
 - **BLIP\_STYLE** :: That's the best one. If the default stylesheet is not fitting well in your website, you can create a new one!
 
-Existing installations/demonstrations: 
+## Existing installations/demonstrations: 
 
-- [http://blog.mangar.com.br](http://blog.mangar.com.br "Marcio Garcia (Blog BR)")
-
+- [Marcio Garcia (Blog BR)](http://blog.mangar.com.br "Marcio Garcia (Blog BR)")
+- [BlipBadge website](http://blipbadge.marciogarcia.com "Blip Badge official website")
 
 ## License
 
