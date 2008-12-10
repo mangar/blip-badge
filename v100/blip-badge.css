@@ -1,0 +1,66 @@
+/*-----------------------------------------------------------------------------------------  
+ *  BlipBadge, version 1.0.0
+ *
+ *  (c) 2008 Marcio Garcia (http://marciogarcia.com)
+ *
+ *  Blip Badge is under MIT license, so you can copy, change and distribute.
+ *  For details, check the code: http://github.com/mangar/blip-badge/tree/master
+ *
+ *-----------------------------------------------------------------------------------------*/
+
+#blip-badge {
+  padding: .2em;
+  color: #888888;
+  background-color: #ddebff;
+  font: 12px "Lucida Grande", "Trebuchet MS", Verdana, sans-serif;
+}
+
+#blip-badge a {
+  color: #4183c4;
+  background-color: white;
+  text-decoration: none;
+}
+
+#blip-badge a:hover {
+  color: #4183c4;
+  text-decoration: underline;
+}
+
+#blip-badge a:visited {
+  color: #4183c4;
+}
+
+#blip-badge div.bb-header {
+  font: 16px "Lucida Grande", "Trebuchet MS", Verdana, sans-serif;
+}
+
+#blip-badge .bb-header span {
+  font: 15px "Lucida Grande", "Trebuchet MS", Verdana, sans-serif;
+}
+
+#blip-badge .bb-footer {
+  font: 10px "Lucida Grande", "Trebuchet MS", Verdana, sans-serif;
+}
+
+#blip-badge .bb-repos ul#bb-repo_listing {
+  padding: .2em;
+  margin: 0px;
+}
+
+#blip-badge .bb-repos li {
+  list-style: none;
+  margin-bottom: 0.25em;
+  padding: .1em;
+  font-size: 90%;
+  background: transparent none repeat scroll 0%;
+}
+
+#blip-badge .bb-repos img {
+  padding-right: .2em;
+  vertical-align: middle;
+}
+
+#blip-badge .bb-repos .public {
+  border: 1px solid #d8d8d8;
+  background-color: #ffffff;
+}
