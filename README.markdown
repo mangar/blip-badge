@@ -1,9 +1,6 @@
 # Blip Badge
 
-
 ![Sample](http://blipbadge.marciogarcia.com/images/sample1.png "Sample")
-
-
 
 ## What
 
@@ -32,13 +29,13 @@ A full outline of available options:
 	</script>
 	<script src="http://blipbadge.marciogarcia.com/blip-badge/v100/blip-badge.js" type="text/javascript"></script>	
 
-Only **BLIP_USERNAME** is a required to badge get run.
+Only **BLIP\_USERNAME** is a required to badge get run.
 The others parameter you can change to make the badge more sexy
 
-- **BLIP_LIST_LENGHT** :: The default lenght of the music list is 10, if you want, you can change it for any size. Badge is prepared to provide a good look sizes: 5, 10, 15 and 20, more than 20 you have to change the BLIP_FRAME_HEIGHT for better view.
-- **BLIP_FRAME_HEIGHT** :: The size of the badge. (default = 310px, good for 10 musics)
-- **BLIP_DEBUG** :: You can take a look on the real response header of the Blip.fm API (default = false)
-- **BLIP_STYLE** :: That's the best one. If the default stylesheet is not fitting well in your website, you can create a new one!
+- **BLIP\_LIST\_LENGHT** :: The default lenght of the music list is 10, if you want, you can change it for any size. Badge is prepared to provide a good look sizes: 5, 10, 15 and 20, more than 20 you have to change the BLIP_FRAME_HEIGHT for better view.
+- **BLIP\_FRAME\_HEIGHT** :: The size of the badge. (default = 310px, good for 10 musics)
+- **BLIP\_DEBUG** :: You can take a look on the real response header of the Blip.fm API (default = false)
+- **BLIP\_STYLE** :: That's the best one. If the default stylesheet is not fitting well in your website, you can create a new one!
 
 Existing installations/demonstrations: 
 
