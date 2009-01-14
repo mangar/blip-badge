@@ -1,4 +1,4 @@
-# Blip Badge
+# Blip Badge - v1.0.0
 
 ![Sample](http://blipbadge.marciogarcia.com/images/sample1.png "Sample")
 
