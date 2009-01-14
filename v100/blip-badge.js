@@ -1,6 +1,7 @@
 
 //base url
 url = "http://blipbadge.marciogarcia.com/widget/v100?username=" + BLIP_USERNAME;
+// url = "http://localhost:3000/widget/v100?username=" + BLIP_USERNAME;
 
 //music list lenght...
 MASTER_BLIP_LIST_LENGTH = 10;
